@@ -1,2 +1,3 @@
 # hello-world
-Guide
+
+This is the first document create in a repository.
